@@ -99,5 +99,5 @@ This project builds a comprehensive SQL database system to manage a company's **
 ## 📝 Author
 
 **Ankita Mohan**
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+[LinkedIn](https://www.linkedin.com/in/ankita-mohan-524b90229/) | [GitHub](https://github.com/Ankita-Mohan)
 Learning SQL and database design with real-world examples!
